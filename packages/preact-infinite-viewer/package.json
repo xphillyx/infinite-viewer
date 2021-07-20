@@ -41,6 +41,6 @@
         "typescript": "^3.4.5"
     },
     "dependencies": {
-        "react-infinite-viewer": "^0.9.0"
+        "react-infinite-viewer": "^0.12.0"
     }
 }
