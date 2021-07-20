@@ -42,7 +42,7 @@
     "homepage": "https://github.com/daybrush/infinite-viewer#readme",
     "dependencies": {
         "@daybrush/utils": "^1.0.0",
-        "@egjs/agent": "^2.2.1",
+        "@egjs/agent": "^2.3.0",
         "@egjs/component": "^2.1.2",
         "css-styled": "^1.0.0",
         "framework-utils": "^0.3.4",
